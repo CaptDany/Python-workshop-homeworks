@@ -10,3 +10,5 @@ Because I can and I want
 I believe that spreading knowledge and taking feedback is the way to go
 I also believe it can save time and effort to everybody
 Contribution is very welcome
+
+https://img.shields.io/github/downloads/CaptDany/Python-workshop-homeworks/total?style=flat-square
