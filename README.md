@@ -46,11 +46,11 @@ I also believe it can save time and effort to everybody.
 Contribution is very welcome.
 ## To-Do list
 
--☑️ Evidence 1
--☑️ Evidence 2
--⬜ Evidence 3
+☑️ Evidence 1
+☑️ Evidence 2
+⬜ Evidence 3
 (Needs work, corrections)
--☑️ Evidence 4
+☑️ Evidence 4
 <!-- CONTACT -->
 ## Contact
 
