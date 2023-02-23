@@ -48,7 +48,7 @@ Contribution is very welcome.
 
 - [x] Evidence 1
 - [x] Evidence 2
-- [ ] Evidence 3 (needs corrections)
+- [x] Evidence 3
 - [x] Evidence 4
 <!-- CONTACT -->
 ## Contact
