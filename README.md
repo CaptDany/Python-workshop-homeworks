@@ -14,7 +14,7 @@
   <img alt="release" src="https://img.shields.io/github/v/release/CaptDany/Python-workshop-homeworks?include_prereleases&style=flat-square">
   <img alt="GitHubLicense" src="https://img.shields.io/github/license/CaptDany/Python-workshop-homeworks?style=flat-square">
   <img alt="bundle size" src="https://img.shields.io/github/repo-size/CaptDany/Python-workshop-homeworks?style=flat-square">
-  <img alt="total lines" src="https://img.shields.io/tokei/lines/github/CaptDany/Python-workshop-homeworks?style=flat-square">
+  <img alt="issues" src="https://img.shields.io/github/issues/CaptDany/Python-workshop-homeworks?style=flat-square">
 </p>
 <br />
 
