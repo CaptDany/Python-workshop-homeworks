@@ -13,3 +13,15 @@ a[1] + b[1] = c[1]
 
 Task:
 Allow user to add their own numbers
+
+-------------------------------------------------
+
+EVIDENCE 6: Functions
+Create an algorithm that has the following functions:
+
+1.-Write a function that converts degrees Celsius to degrees Fahrenheit
+2.-Write a function that calculates the area of a circle given its radius
+3.-Write a function that returns only the voices of a string die
+4.-Write a function that fills a list given its size
+5.-Write a function that returns only the even numbers in the list
+6.-Make a menu with all the previous functions implemented
